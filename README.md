@@ -1,7 +1,5 @@
 # Data Science & Analytics - CEP
 
-![image](https://github.com/MusadiqBhutto/IPL-Score-Predictor/assets/88616911/aa496ffd-8211-4253-9aba-09411b143449)
-
 
 **Project Title:** IPL Score Predictor
 
@@ -52,7 +50,8 @@
 
 **User-Friendly Interface:** To make score predictions accessible to cricket enthusiasts, we will create a simple and stylish Python application. The interface will allow users to select the participating teams, enter live match statistics, and receive real-time score predictions.
 
-![image](https://github.com/MusadiqBhutto/IPL-Score-Predictor/assets/88616911/bcda3163-2257-4eac-810b-ba23dcc839cd)
+![image](https://github.com/MusadiqBhutto/IPL-Score-Predictor/assets/88616911/c4e91109-dea7-4c23-8806-22ebb89747c6)
+
 
 
 **Prediction Range:** The application will provide a predicted score range, indicating the expected total score with a certain margin of error. This range helps users understand the uncertainty associated with the prediction.
