@@ -1,5 +1,7 @@
 # Data Science & Analytics - CEP
 
+![image](https://github.com/MusadiqBhutto/IPL-Score-Predictor/assets/88616911/445c62af-aad4-45a7-83af-08865a3e3969)
+
 
 **Project Title:** IPL Score Predictor
 
